@@ -1,1 +1,0 @@
-# eCognition_rulesets
